@@ -10,3 +10,6 @@ Here i will show the set of tasks I have been assigned during the internship hou
 # Task 2: 📝 Student Grade Calculator
 * Obtains the marks for each subject and calculates the total marks, average percentage and assigns a grade according to the average percentage.
 * Prints the total marks, average percentage and the grade after calculation.
+
+# Task 3: 🏧 ATM Interface
+* Allows the client to check his bank account balance, make withdrawals and deposit money into his bank account.
